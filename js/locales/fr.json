@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Chancemètre - DopaBrain",
+    "description": "Mesurez votre chance du jour ! Obtenez un score de 0 à 100, des évaluations dans 5 catégories, un objet porte-bonheur et une couleur porte-bonheur."
+  },
+  "a11y": {
+    "skip": "Aller au contenu"
+  },
+  "app": {
+    "title": "Chancemètre",
+    "subtitle": "Appuyez pour mesurer votre chance !",
+    "loading": "Chargement...",
+    "measure": "Mesurer ma chance"
+  },
+  "score": {
+    "title": "Votre score de chance",
+    "tier1": "Très malchanceux...",
+    "tier2": "En dessous de la moyenne",
+    "tier3": "Moyen",
+    "tier4": "Chanceux !",
+    "tier5": "Extrêmement chanceux !!"
+  },
+  "categories": {
+    "love": "Amour",
+    "money": "Argent",
+    "health": "Santé",
+    "career": "Carrière",
+    "social": "Social"
+  },
+  "lucky": {
+    "itemLabel": "Objet porte-bonheur",
+    "colorLabel": "Couleur porte-bonheur"
+  },
+  "items": {
+    "i1": "Trèfle à quatre feuilles",
+    "i2": "Fer à cheval",
+    "i3": "Pièce d'or",
+    "i4": "Étoile filante",
+    "i5": "Arc-en-ciel",
+    "i6": "Papillon",
+    "i7": "Plume",
+    "i8": "Clé",
+    "i9": "Diamant",
+    "i10": "Parapluie"
+  },
+  "colors": {
+    "c1": "Rouge",
+    "c2": "Bleu",
+    "c3": "Vert",
+    "c4": "Doré",
+    "c5": "Violet",
+    "c6": "Rose",
+    "c7": "Orange",
+    "c8": "Argent"
+  },
+  "share": {
+    "title": "Chancemètre",
+    "text": "Mon score de chance aujourd'hui est de {score} ! 🍀",
+    "copied": "Copié !",
+    "twitter": "Partager sur Twitter",
+    "copyUrl": "Copier le lien"
+  },
+  "result": {
+    "tryAgain": "Réessayer"
+  },
+  "nav": {
+    "back": "Accueil DopaBrain"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Pengukur Keberuntungan - DopaBrain",
+    "description": "Ukur keberuntunganmu hari ini! Dapatkan skor 0-100, penilaian 5 kategori, benda keberuntungan, dan warna keberuntungan."
+  },
+  "a11y": {
+    "skip": "Langsung ke konten"
+  },
+  "app": {
+    "title": "Pengukur Keberuntungan",
+    "subtitle": "Ketuk untuk mengukur keberuntunganmu!",
+    "loading": "Memuat...",
+    "measure": "Ukur Keberuntunganku"
+  },
+  "score": {
+    "title": "Skor Keberuntunganmu",
+    "tier1": "Sangat sial...",
+    "tier2": "Di bawah rata-rata",
+    "tier3": "Rata-rata",
+    "tier4": "Beruntung!",
+    "tier5": "Sangat beruntung!!"
+  },
+  "categories": {
+    "love": "Cinta",
+    "money": "Keuangan",
+    "health": "Kesehatan",
+    "career": "Karier",
+    "social": "Sosial"
+  },
+  "lucky": {
+    "itemLabel": "Benda keberuntungan",
+    "colorLabel": "Warna keberuntungan"
+  },
+  "items": {
+    "i1": "Semanggi empat daun",
+    "i2": "Tapal kuda",
+    "i3": "Koin emas",
+    "i4": "Bintang jatuh",
+    "i5": "Pelangi",
+    "i6": "Kupu-kupu",
+    "i7": "Bulu",
+    "i8": "Kunci",
+    "i9": "Berlian",
+    "i10": "Payung"
+  },
+  "colors": {
+    "c1": "Merah",
+    "c2": "Biru",
+    "c3": "Hijau",
+    "c4": "Emas",
+    "c5": "Ungu",
+    "c6": "Merah muda",
+    "c7": "Oranye",
+    "c8": "Perak"
+  },
+  "share": {
+    "title": "Pengukur Keberuntungan",
+    "text": "Skor keberuntunganku hari ini {score}! 🍀",
+    "copied": "Tersalin!",
+    "twitter": "Bagikan di Twitter",
+    "copyUrl": "Salin tautan"
+  },
+  "result": {
+    "tryAgain": "Coba lagi"
+  },
+  "nav": {
+    "back": "Beranda DopaBrain"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Glücksmesser - DopaBrain",
+    "description": "Miss dein heutiges Glück! Erhalte einen Glückswert von 0-100, Bewertungen in 5 Kategorien, Glücksgegenstand und Glücksfarbe."
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen"
+  },
+  "app": {
+    "title": "Glücksmesser",
+    "subtitle": "Tippe, um dein Glück zu messen!",
+    "loading": "Wird geladen...",
+    "measure": "Mein Glück messen"
+  },
+  "score": {
+    "title": "Dein Glückswert",
+    "tier1": "Sehr unglücklich...",
+    "tier2": "Unterdurchschnittlich",
+    "tier3": "Durchschnittlich",
+    "tier4": "Glücklich!",
+    "tier5": "Extrem glücklich!!"
+  },
+  "categories": {
+    "love": "Liebe",
+    "money": "Geld",
+    "health": "Gesundheit",
+    "career": "Karriere",
+    "social": "Soziales"
+  },
+  "lucky": {
+    "itemLabel": "Glücksgegenstand",
+    "colorLabel": "Glücksfarbe"
+  },
+  "items": {
+    "i1": "Vierblättriges Kleeblatt",
+    "i2": "Hufeisen",
+    "i3": "Goldmünze",
+    "i4": "Sternschnuppe",
+    "i5": "Regenbogen",
+    "i6": "Schmetterling",
+    "i7": "Feder",
+    "i8": "Schlüssel",
+    "i9": "Diamant",
+    "i10": "Regenschirm"
+  },
+  "colors": {
+    "c1": "Rot",
+    "c2": "Blau",
+    "c3": "Grün",
+    "c4": "Gold",
+    "c5": "Lila",
+    "c6": "Rosa",
+    "c7": "Orange",
+    "c8": "Silber"
+  },
+  "share": {
+    "title": "Glücksmesser",
+    "text": "Mein Glückswert heute ist {score}! 🍀",
+    "copied": "Kopiert!",
+    "twitter": "Auf Twitter teilen",
+    "copyUrl": "Link kopieren"
+  },
+  "result": {
+    "tryAgain": "Nochmal versuchen"
+  },
+  "nav": {
+    "back": "DopaBrain Startseite"
+  }
+}

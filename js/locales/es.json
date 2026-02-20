@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Medidor de Suerte - DopaBrain",
+    "description": "¡Mide tu suerte del día! Obtén una puntuación de 0 a 100, calificaciones en 5 categorías, objeto de la suerte y color de la suerte."
+  },
+  "a11y": {
+    "skip": "Ir al contenido"
+  },
+  "app": {
+    "title": "Medidor de Suerte",
+    "subtitle": "¡Toca para medir tu suerte!",
+    "loading": "Cargando...",
+    "measure": "Medir Mi Suerte"
+  },
+  "score": {
+    "title": "Tu Puntuación de Suerte",
+    "tier1": "Muy mala suerte...",
+    "tier2": "Por debajo del promedio",
+    "tier3": "Promedio",
+    "tier4": "¡Con suerte!",
+    "tier5": "¡¡Suerte extrema!!"
+  },
+  "categories": {
+    "love": "Amor",
+    "money": "Dinero",
+    "health": "Salud",
+    "career": "Carrera",
+    "social": "Social"
+  },
+  "lucky": {
+    "itemLabel": "Objeto de la suerte",
+    "colorLabel": "Color de la suerte"
+  },
+  "items": {
+    "i1": "Trébol de cuatro hojas",
+    "i2": "Herradura",
+    "i3": "Moneda de oro",
+    "i4": "Estrella fugaz",
+    "i5": "Arcoíris",
+    "i6": "Mariposa",
+    "i7": "Pluma",
+    "i8": "Llave",
+    "i9": "Diamante",
+    "i10": "Paraguas"
+  },
+  "colors": {
+    "c1": "Rojo",
+    "c2": "Azul",
+    "c3": "Verde",
+    "c4": "Dorado",
+    "c5": "Morado",
+    "c6": "Rosa",
+    "c7": "Naranja",
+    "c8": "Plateado"
+  },
+  "share": {
+    "title": "Medidor de Suerte",
+    "text": "¡Mi puntuación de suerte hoy es {score}! 🍀",
+    "copied": "¡Copiado!",
+    "twitter": "Compartir en Twitter",
+    "copyUrl": "Copiar enlace"
+  },
+  "result": {
+    "tryAgain": "Intentar de nuevo"
+  },
+  "nav": {
+    "back": "Inicio DopaBrain"
+  }
+}

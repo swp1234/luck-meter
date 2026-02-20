@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Şans Ölçer - DopaBrain",
+    "description": "Bugünkü şansını ölç! 0-100 şans puanı, 5 kategori yıldız değerlendirmesi, şanslı eşya ve şanslı rengini öğren."
+  },
+  "a11y": {
+    "skip": "İçeriğe atla"
+  },
+  "app": {
+    "title": "Şans Ölçer",
+    "subtitle": "Şansını ölçmek için dokun!",
+    "loading": "Yükleniyor...",
+    "measure": "Şansımı Ölç"
+  },
+  "score": {
+    "title": "Şans Puanın",
+    "tier1": "Çok şanssız...",
+    "tier2": "Ortalamanın altında",
+    "tier3": "Ortalama",
+    "tier4": "Şanslı!",
+    "tier5": "Aşırı şanslı!!"
+  },
+  "categories": {
+    "love": "Aşk",
+    "money": "Para",
+    "health": "Sağlık",
+    "career": "Kariyer",
+    "social": "Sosyal"
+  },
+  "lucky": {
+    "itemLabel": "Şanslı eşya",
+    "colorLabel": "Şanslı renk"
+  },
+  "items": {
+    "i1": "Dört yapraklı yonca",
+    "i2": "At nalı",
+    "i3": "Altın sikke",
+    "i4": "Kayan yıldız",
+    "i5": "Gökkuşağı",
+    "i6": "Kelebek",
+    "i7": "Tüy",
+    "i8": "Anahtar",
+    "i9": "Elmas",
+    "i10": "Şemsiye"
+  },
+  "colors": {
+    "c1": "Kırmızı",
+    "c2": "Mavi",
+    "c3": "Yeşil",
+    "c4": "Altın",
+    "c5": "Mor",
+    "c6": "Pembe",
+    "c7": "Turuncu",
+    "c8": "Gümüş"
+  },
+  "share": {
+    "title": "Şans Ölçer",
+    "text": "Bugünkü şans puanım {score}! 🍀",
+    "copied": "Kopyalandı!",
+    "twitter": "Twitter'da paylaş",
+    "copyUrl": "Bağlantıyı kopyala"
+  },
+  "result": {
+    "tryAgain": "Tekrar dene"
+  },
+  "nav": {
+    "back": "DopaBrain Ana Sayfa"
+  }
+}

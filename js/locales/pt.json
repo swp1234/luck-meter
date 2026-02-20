@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Medidor de Sorte - DopaBrain",
+    "description": "Meça sua sorte do dia! Receba uma pontuação de 0 a 100, avaliações em 5 categorias, item da sorte e cor da sorte."
+  },
+  "a11y": {
+    "skip": "Pular para o conteúdo"
+  },
+  "app": {
+    "title": "Medidor de Sorte",
+    "subtitle": "Toque para medir sua sorte!",
+    "loading": "Carregando...",
+    "measure": "Medir Minha Sorte"
+  },
+  "score": {
+    "title": "Sua Pontuação de Sorte",
+    "tier1": "Muito azarado...",
+    "tier2": "Abaixo da média",
+    "tier3": "Médio",
+    "tier4": "Com sorte!",
+    "tier5": "Extremamente sortudo!!"
+  },
+  "categories": {
+    "love": "Amor",
+    "money": "Dinheiro",
+    "health": "Saúde",
+    "career": "Carreira",
+    "social": "Social"
+  },
+  "lucky": {
+    "itemLabel": "Item da sorte",
+    "colorLabel": "Cor da sorte"
+  },
+  "items": {
+    "i1": "Trevo de quatro folhas",
+    "i2": "Ferradura",
+    "i3": "Moeda de ouro",
+    "i4": "Estrela cadente",
+    "i5": "Arco-íris",
+    "i6": "Borboleta",
+    "i7": "Pena",
+    "i8": "Chave",
+    "i9": "Diamante",
+    "i10": "Guarda-chuva"
+  },
+  "colors": {
+    "c1": "Vermelho",
+    "c2": "Azul",
+    "c3": "Verde",
+    "c4": "Dourado",
+    "c5": "Roxo",
+    "c6": "Rosa",
+    "c7": "Laranja",
+    "c8": "Prateado"
+  },
+  "share": {
+    "title": "Medidor de Sorte",
+    "text": "Minha pontuação de sorte hoje é {score}! 🍀",
+    "copied": "Copiado!",
+    "twitter": "Compartilhar no Twitter",
+    "copyUrl": "Copiar link"
+  },
+  "result": {
+    "tryAgain": "Tentar novamente"
+  },
+  "nav": {
+    "back": "Início DopaBrain"
+  }
+}
