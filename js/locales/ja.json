@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "DopaBrain ホーム"
+  },
+  "related": {
+    "title": "もっと楽しむ",
+    "fortuneCookie": "フォーチュンクッキー",
+    "dailyTarot": "デイリータロット",
+    "numerology": "数秘術",
+    "dreamFortune": "夢占い"
   }
 }

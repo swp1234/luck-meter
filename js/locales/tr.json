@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "DopaBrain Ana Sayfa"
+  },
+  "related": {
+    "title": "Daha fazla keşfet",
+    "fortuneCookie": "Şans kurabiyesi",
+    "dailyTarot": "Günlük Tarot",
+    "numerology": "Numeroloji",
+    "dreamFortune": "Rüya tabiri"
   }
 }

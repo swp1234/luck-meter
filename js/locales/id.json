@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "Beranda DopaBrain"
+  },
+  "related": {
+    "title": "Jelajahi lainnya",
+    "fortuneCookie": "Kue keberuntungan",
+    "dailyTarot": "Tarot harian",
+    "numerology": "Numerologi",
+    "dreamFortune": "Arti mimpi"
   }
 }

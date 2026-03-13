@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "Accueil DopaBrain"
+  },
+  "related": {
+    "title": "À découvrir",
+    "fortuneCookie": "Fortune Cookie",
+    "dailyTarot": "Tarot du jour",
+    "numerology": "Numérologie",
+    "dreamFortune": "Interprétation des rêves"
   }
 }

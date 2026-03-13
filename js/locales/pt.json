@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "Início DopaBrain"
+  },
+  "related": {
+    "title": "Explore mais",
+    "fortuneCookie": "Biscoito da sorte",
+    "dailyTarot": "Tarô diário",
+    "numerology": "Numerologia",
+    "dreamFortune": "Significado dos sonhos"
   }
 }

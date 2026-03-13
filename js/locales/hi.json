@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "DopaBrain होम"
+  },
+  "related": {
+    "title": "और खोजें",
+    "fortuneCookie": "फॉर्च्यून कुकी",
+    "dailyTarot": "दैनिक टैरो",
+    "numerology": "अंकशास्त्र",
+    "dreamFortune": "सपनों का मतलब"
   }
 }

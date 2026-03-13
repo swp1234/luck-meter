@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "Главная DopaBrain"
+  },
+  "related": {
+    "title": "Ещё интересное",
+    "fortuneCookie": "Печенье с предсказанием",
+    "dailyTarot": "Таро дня",
+    "numerology": "Нумерология",
+    "dreamFortune": "Толкование снов"
   }
 }

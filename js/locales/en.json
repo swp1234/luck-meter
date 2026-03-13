@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "DopaBrain Home"
+  },
+  "related": {
+    "title": "More to Explore",
+    "fortuneCookie": "Fortune Cookie",
+    "dailyTarot": "Daily Tarot",
+    "numerology": "Numerology",
+    "dreamFortune": "Dream Fortune"
   }
 }

@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "DopaBrain Startseite"
+  },
+  "related": {
+    "title": "Mehr entdecken",
+    "fortuneCookie": "Glückskeks",
+    "dailyTarot": "Tages-Tarot",
+    "numerology": "Numerologie",
+    "dreamFortune": "Traumdeutung"
   }
 }

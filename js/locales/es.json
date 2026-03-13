@@ -65,5 +65,12 @@
   },
   "nav": {
     "back": "Inicio DopaBrain"
+  },
+  "related": {
+    "title": "Explora más",
+    "fortuneCookie": "Galleta de la fortuna",
+    "dailyTarot": "Tarot diario",
+    "numerology": "Numerología",
+    "dreamFortune": "Significado de sueños"
   }
 }
